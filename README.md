@@ -1,4 +1,4 @@
 # SNAKE-GAME
 
 
-![](resources/Screenshot (17).png)
+![](resources/Screenshot%20(17).png)
